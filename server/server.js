@@ -12,17 +12,17 @@ app.get('/api/products', (req, res) => {
   const products = [
     { 
       id: 1, 
-      name: 'Cámara web HD 1080P', 
-      oldPrice: 37500, 
-      price: 35000, 
-      urlImg: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmYckEMeFKNyPfp2TJu1Fup4HIBjibtiCqO3I6nbhWev7LIyxevl52_-aZwkaoJmuOVxzl0GTcx9nqq5G4T3ArSy99H_T5&usqp=CAE'
+      name: 'Samsung Notebook 9 Pro', 
+      oldPrice: 900000, 
+      price: 750000, 
+      urlImg: 'https://www.unidiversidad.com.ar/cache/pc_1000_1100.jpg'
     },
     {
       id: 2, 
-      name: 'Campera Keyboard programador',  
-      oldPrice: 11500, 
-      price: 11200, 
-      urlImg: 'https://purodiseno.lat/wp-content/uploads/2023/04/CAMPERA-TECLADO-2-821x1024.jpg' 
+      name: 'Auriculares Aris',  
+      oldPrice: 25000, 
+      price: 23000, 
+      urlImg: 'https://acdn.mitiendanube.com/stores/001/593/734/products/ng-a100bt-pl-angulo1-8d30f7d17ecc9b8c8e16518679401776-1024-1024.jpg' 
     },
     { 
       id: 3, 

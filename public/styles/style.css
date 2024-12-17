@@ -1,5 +1,5 @@
 body {
-    background-color: #226db3ee;
+    background-color: #b3224eee;
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
@@ -18,7 +18,7 @@ a {
     padding: 0;
     list-style: none;
     font-size: 16px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'times new roman', sans-serif;
 }
 
 .top-nav li {
@@ -93,7 +93,7 @@ a {
 }
 
 .product-item {
-    box-shadow: #1e5ab3 0 0 10px 1px;
+    box-shadow: #b3224eee 0 0 10px 1px;
 }
 
 .product-item:hover {
@@ -103,7 +103,7 @@ a {
 .product-name {
     font-size: 1.2rem;
     font-weight: 600;
-    color: #014eb3;
+    color: #b3224eee;
     text-decoration: none;
 }
 
